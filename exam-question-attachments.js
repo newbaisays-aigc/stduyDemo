@@ -1,0 +1,1 @@
+window.exam-question-attachments = {};

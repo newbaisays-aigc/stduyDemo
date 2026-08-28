@@ -1,0 +1,1 @@
+window.exam-image-map = {};
