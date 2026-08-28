@@ -1,6 +1,8 @@
 # V2.2 Open Source Edition
 
-这是一个面向语文教研与题库整理场景的本地化学习图谱工具，适合用于：
+这是一个面向语文教研与题库整理场景的本地化学习图谱工具，
+  <img width="1600" height="1000" alt="题库" src="https://github.com/user-attachments/assets/f9c0676d-557f-4902-9ce4-fc63f028f770" />
+适合用于：
 - 题目结构化整理
 - 题库编辑与维护
 - 试卷结构拆分与校验
@@ -14,7 +16,6 @@
 - 题目管理：支持新增、编辑、删除、导入、导出
 - 本地保存：所有结构数据可写回本地文件
 - 公开演示：保留交互流程，方便 GitHub 用户直接运行
-  <img width="1600" height="1000" alt="题库" src="https://github.com/user-attachments/assets/f9c0676d-557f-4902-9ce4-fc63f028f770" />
 
 - ## 公开版边界
 公开版只保留：
